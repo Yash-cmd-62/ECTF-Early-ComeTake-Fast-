@@ -87,3 +87,4 @@ plot_btn = tk.Button(root, text="Generate Chart / Table", command=plot_data)
 plot_btn.pack(pady=15)
 
 root.mainloop()
+
